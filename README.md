@@ -36,7 +36,7 @@ I turn raw data into things people can explore — pipelines, dashboards, AI age
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pujiverse) [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@pujiverse) [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/pujiverse) [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/pujiverse) [![Sketchfab](https://img.shields.io/badge/Sketchfab-1CAAD9?style=flat-square&logo=sketchfab&logoColor=white)](https://sketchfab.com/Pujiverse)
 
 **🤝 Support & Chat**  
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/c/pujiverse) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/message/HPIAGRGKO23SM1) [![Etsy](https://img.shields.io/badge/Etsy-F16521?style=flat-square&logo=etsy&logoColor=white)](https://www.etsy.com/people/jqo8bz5apmta83y3)
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/cw/pujithchowdarysakhamuri) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/message/HPIAGRGKO23SM1) [![Etsy](https://img.shields.io/badge/Etsy-F16521?style=flat-square&logo=etsy&logoColor=white)](https://www.etsy.com/people/jqo8bz5apmta83y3)
 
 **Discord:** `pujiverse`
 
