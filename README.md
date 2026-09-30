@@ -2,7 +2,7 @@
 
 # Pujith Chowdary Sakhamuri
 
-**Full Stack Data & AI Engineer · Network Data Analyst · Builder of Pujiverse**
+**Full Stack Data & AI Engineer · Network Data Analyst · Pujiverse Creator**
 
 I turn raw data into things people can explore — pipelines, dashboards, AI agents and interactive websites.
 
@@ -15,9 +15,30 @@ I turn raw data into things people can explore — pipelines, dashboards, AI age
 
 ---
 
-## 🌌 Pujiverse Hub
+## 🌌 Pujiverse Hub — I'm the creator of Pujiverse
 
 **[pujiverse.github.io/Pujiversen-Network](https://pujiverse.github.io/Pujiversen-Network/)** — my main home page: the Pujiverse Network hub for my channels, projects and apps, all in one place. · [Source](https://github.com/pujiverse/Pujiversen-Network)
+
+---
+
+## 🌐 Connect with me
+
+**🎬 Video**  
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@pujiverse) [![Rumble](https://img.shields.io/badge/Rumble-85C742?style=flat-square&logo=rumble&logoColor=white)](https://rumble.com/user/pujiverse) [![Vimeo](https://img.shields.io/badge/Vimeo-1AB7EA?style=flat-square&logo=vimeo&logoColor=white)](https://vimeo.com/pujiverse) [![Dailymotion](https://img.shields.io/badge/Dailymotion-0A0A0A?style=flat-square&logo=dailymotion&logoColor=white)](https://www.dailymotion.com/PUJIVERSE) [![Snapchat Spotlight](https://img.shields.io/badge/Snapchat%20Spotlight-FFFC00?style=flat-square&logo=snapchat&logoColor=white)](https://snapchat.com/t/bprrYRF8) [![Likee](https://img.shields.io/badge/Likee-FF3E7F?style=flat-square)](https://l.likee.video/p/h1YdV) [![Kwai](https://img.shields.io/badge/Kwai-FF7700?style=flat-square)](https://k.kwai.com/u/@Pujiverse/2sGeerCN) [![Moj](https://img.shields.io/badge/Moj-6A1B9A?style=flat-square)](https://mojapp.in/@pujiverse) [![Trendo](https://img.shields.io/badge/Trendo-E91E63?style=flat-square)](https://s.trendo.vip/Jjoq)
+
+**💬 Social**  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/pujiverseofficial/) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/PUJIVERSEOFFICIAL/) [![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.net/@pujiverseofficial) [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/pujiverse) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/pujiverse.bsky.social) [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://in.pinterest.com/pujiverse/) [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/pujiverse/) [![LinkedIn (Pujiverse)](https://img.shields.io/badge/LinkedIn%20(Pujiverse)-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pujiverse-pujith-700819392/)
+
+**✍️ Writing**  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@pujiverse) [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@pujiverse) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://pujiverse.blogspot.com/) [![Tumblr](https://img.shields.io/badge/Tumblr-36465D?style=flat-square&logo=tumblr&logoColor=white)](https://www.tumblr.com/pujiverse) [![Quora](https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white)](https://www.quora.com/profile/Pujiverse)
+
+**🛠️ Build & Design**  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pujiverse) [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@pujiverse) [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/pujithsakhamu) [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/pujiverse)
+
+**🤝 Support & Chat**  
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=flat-square&logo=patreon&logoColor=white)](https://www.patreon.com/c/pujiverse) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/message/HPIAGRGKO23SM1)
+
+**Discord:** `pujiverse`
 
 ---
 
