@@ -54,29 +54,29 @@ I turn raw data into things people can explore — pipelines, dashboards, AI age
 Prototypes built in Google AI Studio with TypeScript and the Gemini API.
 
 **Content creation & voice**
-- [Pujiverse Voice Studio](https://github.com/pujiverse/Pujiverse-Voice-Studio) — text-to-speech voice-overs with selectable age, gender and emotion
-- [YouTube Video Creator](https://github.com/pujiverse/PujiVerse-Video-Content-Creator) — scripts, voice-overs and background music for YouTube videos
-- [Pujiverse Creation Spark](https://github.com/pujiverse/Creative-Spark) — turns an idea into songs, stories or narrations in multiple languages
-- [Recipe Voice-over Generator](https://github.com/pujiverse/Recipe-Voice-over-Generator) — multilingual cooking voice-overs from recipe steps
-- [Pujiverse Cinema Storyteller](https://github.com/pujiverse/pujiverse-cinema) — movie scripts and voice-overs in Telugu–English
-- [Movie Storyteller & Live AI](https://github.com/pujiverse/movie-subtitle-to-story) — stories from subtitles, transcript analysis and live voice chat
-- [Text to Audio](https://github.com/pujiverse/voice) — simple text-to-audio generator
+- [Pujiverse Voice Studio](https://github.com/pujiverse/Pujiverse-Voice-Studio) — text-to-speech voice-overs with selectable age, gender and emotion · [Live](https://pujiverse-voice-studio.vercel.app/)
+- [YouTube Video Creator](https://github.com/pujiverse/PujiVerse-Video-Content-Creator) — scripts, voice-overs and background music for YouTube videos · [Live](https://puji-verse-video-content-creator.vercel.app/)
+- [Pujiverse Creation Spark](https://github.com/pujiverse/Creative-Spark) — turns an idea into songs, stories or narrations in multiple languages · [Live](https://pujiverse-creative-spark.vercel.app/)
+- [Recipe Voice-over Generator](https://github.com/pujiverse/Recipe-Voice-over-Generator) — multilingual cooking voice-overs from recipe steps · [Live](https://pujiverse-recipe-voice-over-generat.vercel.app/)
+- [Pujiverse Cinema Storyteller](https://github.com/pujiverse/pujiverse-cinema) — movie scripts and voice-overs in Telugu–English · [Live](https://pujiverse-cinema.vercel.app/)
+- [Movie Storyteller & Live AI](https://github.com/pujiverse/movie-subtitle-to-story) — stories from subtitles, transcript analysis and live voice chat · [Live](https://pujiverse-subtitle-to-story.vercel.app/)
+- [Text to Audio](https://github.com/pujiverse/voice) — simple text-to-audio generator · [Live](https://voice-three-blush.vercel.app/)
 
 **Video**
-- [VidPrompt Studio](https://github.com/pujiverse/VidPrompt-Studio_new) — prompt-driven video trimming, narration and in-browser editing
-- [SmartSceneCutter](https://github.com/pujiverse/SmartSceneCutter) — cuts and merges clips from prompts and timestamps, generates FFmpeg commands
-- [Text-to-Video Generator](https://github.com/pujiverse/text-to-video) — prompt-to-video with aspect-ratio and resolution control
+- [VidPrompt Studio](https://github.com/pujiverse/VidPrompt-Studio_new) — prompt-driven video trimming, narration and in-browser editing · [Live](https://pujiverse-vid-prompt-studio-new.vercel.app/)
+- [SmartSceneCutter](https://github.com/pujiverse/SmartSceneCutter) — cuts and merges clips from prompts and timestamps, generates FFmpeg commands · [Live](https://smart-scene-cutter.vercel.app/)
+- [Text-to-Video Generator](https://github.com/pujiverse/text-to-video) — prompt-to-video with aspect-ratio and resolution control · [Live](https://pujiverse-text-to-video.vercel.app/)
 
 **Presentations & career**
-- [Presentation Generator](https://github.com/pujiverse/AI-Animated-Presentation-Generator) — animated PPTX slides with voice-over from a single topic
-- [PPT Voiceover Generator](https://github.com/pujiverse/PPT-Voiceover-Generator) — per-slide voice-overs with playback and download
-- [Pujiverse Resume Builder](https://github.com/pujiverse/resume-builder) — tailors a resume to a job description
+- [Presentation Generator](https://github.com/pujiverse/AI-Animated-Presentation-Generator) — animated PPTX slides with voice-over from a single topic · [Live](https://ai-animated-presentation-generator.vercel.app/)
+- [PPT Voiceover Generator](https://github.com/pujiverse/PPT-Voiceover-Generator) — per-slide voice-overs with playback and download · [Live](https://pujiverse-ppt-voiceover-generator.vercel.app/)
+- [Pujiverse Resume Builder](https://github.com/pujiverse/resume-builder) — tailors a resume to a job description · [Live](https://resume-builder-azure-omega.vercel.app/)
 
 **Business & personal**
-- [Sai Indian Cuisine — Digital Concierge](https://github.com/pujiverse/SAI-INDIAN) — mobile-first restaurant landing page with an AI concierge
-- [Business Manager Pro](https://github.com/pujiverse/biz-manager) — business, chit, expense and loan tracking with summary reports
+- [Sai Indian Cuisine — Digital Concierge](https://github.com/pujiverse/SAI-INDIAN) — mobile-first restaurant landing page with an AI concierge · [Live](https://sai-indian.vercel.app/)
+- [Business Manager Pro](https://github.com/pujiverse/biz-manager) — business, chit, expense and loan tracking with summary reports · [Live](https://biz-manager-eight.vercel.app/)
 - [Pujiverse Hub](https://github.com/pujiverse/pujiverse-hub) — personal hub for socials, projects and contact · [Live](https://pujiverse.vercel.app/)
-- [Live-Sync Portfolio](https://github.com/pujiverse/New-Portfolio) — Google-Sheet-synced portfolio with a Gemini assistant
+- [Live-Sync Portfolio](https://github.com/pujiverse/New-Portfolio) — Google-Sheet-synced portfolio with a Gemini assistant · [Live](https://pujithsakhamuri.vercel.app/)
 - [Professional Portfolio](https://github.com/pujiverse/my-protfolio) — career portfolio · [Live](https://pujith-sakhamuri-portfolio.vercel.app/)
 
 ## 🎓 Academic
