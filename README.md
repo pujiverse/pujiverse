@@ -41,12 +41,12 @@ I turn raw data into things people can explore — pipelines, dashboards, AI age
 
 | Project | What it is |
 |---|---|
-| [**BizManager Lite**](https://github.com/pujiverse/ledger) | Dependency-free business, chit, loan and household-expense manager in plain HTML/CSS/JS — no build step |
-| [**Household Expense Manager (Firebase)**](https://github.com/pujiverse/HouseholdExpenseManager) | Multi-page app with Firebase Authentication covering business, chits and household expenses |
-| [**Expense Manager (Google Sheets)**](https://github.com/pujiverse/Expense-Manager) | Expense, business, chit and loan tracker backed by Google Sheets |
-| [**Auto-Updating Portfolio**](https://github.com/pujiverse/pujith-portfolio) | Portfolio that pulls its content live from a Google Sheet |
+| [**BizManager Lite**](https://github.com/pujiverse/ledger) | Dependency-free business, chit, loan and household-expense manager in plain HTML/CSS/JS — no build step · [Live](https://pujiverse.github.io/ledger/) |
+| [**Household Expense Manager (Firebase)**](https://github.com/pujiverse/HouseholdExpenseManager) | Multi-page app with Firebase Authentication covering business, chits and household expenses · [Live](https://pujiverse.github.io/HouseholdExpenseManager/) |
+| [**Expense Manager (Google Sheets)**](https://github.com/pujiverse/Expense-Manager) | Expense, business, chit and loan tracker backed by Google Sheets · [Live](https://pujiverse.github.io/Expense-Manager/) |
+| [**Auto-Updating Portfolio**](https://github.com/pujiverse/pujith-portfolio) | Portfolio that pulls its content live from a Google Sheet · [Live](https://pujiverse.github.io/pujith-portfolio/) |
 | [**Pujiverse Network — Site**](https://github.com/pujiverse/Pujiversen-Network) | Official website for the Pujiverse Network YouTube brand · [Live](https://pujiverse.github.io/Pujiversen-Network/) |
-| [**Pujiverse Network — Master Data**](https://github.com/pujiverse/PujiverseNetwork) | Master data for the channels in the Pujiverse Network |
+| [**Pujiverse Network — Master Data**](https://github.com/pujiverse/PujiverseNetwork) | Master data for the channels in the Pujiverse Network · [Live](https://pujiverse.github.io/PujiverseNetwork/) |
 | [**FlyPal**](https://github.com/pujiverse/FlyPal) | Concept: real-time social matching for airport layovers |
 
 ## 🤖 Google AI Studio apps (Gemini API)
