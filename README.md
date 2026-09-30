@@ -6,12 +6,18 @@
 
 I turn raw data into things people can explore — pipelines, dashboards, AI agents and interactive websites.
 
+[![Pujiverse Home](https://img.shields.io/badge/Pujiverse-Home-6f42c1?style=for-the-badge)](https://pujiverse.github.io/Pujiversen-Network/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pujith-sakhamuri-portfolio.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pujith-sakhamuri-06b69a137)
-[![Pujiverse](https://img.shields.io/badge/Pujiverse-Hub-6f42c1?style=for-the-badge)](https://pujiverse.vercel.app/)
 
 </div>
+
+---
+
+## 🌌 Pujiverse Hub
+
+**[pujiverse.github.io/Pujiversen-Network](https://pujiverse.github.io/Pujiversen-Network/)** — my main home page: the Pujiverse Network hub for my channels, projects and apps, all in one place. · [Source](https://github.com/pujiverse/Pujiversen-Network)
 
 ---
 
@@ -45,7 +51,6 @@ I turn raw data into things people can explore — pipelines, dashboards, AI age
 | [**Household Expense Manager (Firebase)**](https://github.com/pujiverse/HouseholdExpenseManager) | Multi-page app with Firebase Authentication covering business, chits and household expenses · [Live](https://pujiverse.github.io/HouseholdExpenseManager/) |
 | [**Expense Manager (Google Sheets)**](https://github.com/pujiverse/Expense-Manager) | Expense, business, chit and loan tracker backed by Google Sheets · [Live](https://pujiverse.github.io/Expense-Manager/) |
 | [**Auto-Updating Portfolio**](https://github.com/pujiverse/pujith-portfolio) | Portfolio that pulls its content live from a Google Sheet · [Live](https://pujiverse.github.io/pujith-portfolio/) |
-| [**Pujiverse Network — Site**](https://github.com/pujiverse/Pujiversen-Network) | Official website for the Pujiverse Network YouTube brand · [Live](https://pujiverse.github.io/Pujiversen-Network/) |
 | [**Pujiverse Network — Master Data**](https://github.com/pujiverse/PujiverseNetwork) | Master data for the channels in the Pujiverse Network · [Live](https://pujiverse.github.io/PujiverseNetwork/) |
 | [**FlyPal**](https://github.com/pujiverse/FlyPal) | Concept: real-time social matching for airport layovers |
 
@@ -75,7 +80,7 @@ Prototypes built in Google AI Studio with TypeScript and the Gemini API.
 **Business & personal**
 - [Sai Indian Cuisine — Digital Concierge](https://github.com/pujiverse/SAI-INDIAN) — mobile-first restaurant landing page with an AI concierge · [Live](https://sai-indian.vercel.app/)
 - [Business Manager Pro](https://github.com/pujiverse/biz-manager) — business, chit, expense and loan tracking with summary reports · [Live](https://biz-manager-eight.vercel.app/)
-- [Pujiverse Hub](https://github.com/pujiverse/pujiverse-hub) — personal hub for socials, projects and contact · [Live](https://pujiverse.vercel.app/)
+- [Pujiverse Hub (earlier version)](https://github.com/pujiverse/pujiverse-hub) — first version of my personal hub · [Live](https://pujiverse.vercel.app/)
 - [Live-Sync Portfolio](https://github.com/pujiverse/New-Portfolio) — Google-Sheet-synced portfolio with a Gemini assistant · [Live](https://pujithsakhamuri.vercel.app/)
 - [Professional Portfolio](https://github.com/pujiverse/my-protfolio) — career portfolio · [Live](https://pujith-sakhamuri-portfolio.vercel.app/)
 
