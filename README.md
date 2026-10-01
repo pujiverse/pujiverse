@@ -6,7 +6,7 @@
 
 I turn raw data into things people can explore — pipelines, dashboards, AI agents and interactive websites.
 
-[![Pujiverse Home](https://img.shields.io/badge/Pujiverse-Home-6f42c1?style=for-the-badge)](https://pujiverse.github.io/Pujiversen-Network/)
+[![Pujiverse Home](https://img.shields.io/badge/Pujiverse-Home-6f42c1?style=for-the-badge)](https://pujiverse.github.io/Pujiverse-Network/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pujith-sakhamuri-portfolio.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pujith-sakhamuri-06b69a137)
@@ -17,7 +17,7 @@ I turn raw data into things people can explore — pipelines, dashboards, AI age
 
 ## 🌌 Pujiverse Hub — I'm the creator of Pujiverse
 
-**[pujiverse.github.io/Pujiversen-Network](https://pujiverse.github.io/Pujiversen-Network/)** — my main home page: the Pujiverse Network hub for my channels, projects and apps, all in one place. · [Source](https://github.com/pujiverse/Pujiversen-Network)
+**[pujiverse.github.io/Pujiverse-Network](https://pujiverse.github.io/Pujiverse-Network/)** — my main home page: the Pujiverse Network hub for my channels, projects and apps, all in one place. · [Source](https://github.com/pujiverse/Pujiverse-Network)
 
 ---
 
