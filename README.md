@@ -6,7 +6,7 @@
 
 I turn raw data into things people can explore — pipelines, dashboards, AI agents and interactive websites.
 
-[![Pujiverse Home](https://img.shields.io/badge/Pujiverse-Home-6f42c1?style=for-the-badge)](https://pujiverse.github.io/Pujiverse-Network/)
+[![pujiverse.com](https://img.shields.io/badge/pujiverse.com-Official%20Site-6f42c1?style=for-the-badge)](https://www.pujiverse.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pujith-sakhamuri-portfolio.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pujith-sakhamuri-06b69a137)
@@ -17,7 +17,7 @@ I turn raw data into things people can explore — pipelines, dashboards, AI age
 
 ## 🌌 Pujiverse Hub — I'm the creator of Pujiverse
 
-**[pujiverse.github.io/Pujiverse-Network](https://pujiverse.github.io/Pujiverse-Network/)** — my main home page: the Pujiverse Network hub for my channels, projects and apps, all in one place. · [Source](https://github.com/pujiverse/Pujiverse-Network)
+**[www.pujiverse.com](https://www.pujiverse.com/)** — my official website: the Pujiverse Network hub for my channels, projects and apps, all in one place. · Backup: [pujiverse.github.io/Pujiverse-Network](https://pujiverse.github.io/Pujiverse-Network/) · [Source](https://github.com/pujiverse/Pujiverse-Network)
 
 ---
 
@@ -71,12 +71,12 @@ I turn raw data into things people can explore — pipelines, dashboards, AI age
 
 ## ⭐ Featured projects — Pujiverse data platforms
 
-| Project | What it is | Live |
-|---|---|---|
-| [**The AI Timeline**](https://github.com/pujiverse/The-AI-Timeline) | Interactive history of AI from 1843 to today: era timeline, release tracker, model library with side-by-side comparison, and a built-in AI guide | [Open](https://pujiverse.github.io/The-AI-Timeline/) |
-| [**Vehicle Universe**](https://github.com/pujiverse/Vehicle-Universe) | Explorer for every kind of vehicle, from bicycles to rockets — 57 types, 3,400+ brands, 59,000+ models with brand histories and specs | [Open](https://pujiverse.github.io/Vehicle-Universe/) |
-| [**Pujiverse World Atlas**](https://github.com/pujiverse/pujiverse-world-atlas) | 3D globe population explorer with drill-down from world to city, 2015–2025 trends, density, and 1,400+ water bodies | [Open](https://pujiverse.github.io/pujiverse-world-atlas/) |
-| [**Pujiverse Film Database**](https://github.com/pujiverse/Pujiverse-Film-Database) | IMDb-style database of movies, short films, anime and TV across world film industries, organized by year | 🚧 In progress |
+| Project | What it is | Live site | Backup |
+|---|---|---|---|
+| [**The AI Timeline**](https://github.com/pujiverse/The-AI-Timeline) | Interactive history of AI from 1843 to today: era timeline, release tracker, model library with side-by-side comparison, and a built-in AI guide | [aitimeline.pujiverse.com](https://aitimeline.pujiverse.com/) | [GitHub Pages](https://pujiverse.github.io/The-AI-Timeline/) |
+| [**Vehicle Universe**](https://github.com/pujiverse/Vehicle-Universe) | Explorer for every kind of vehicle, from bicycles to rockets — 57 types, 3,400+ brands, 59,000+ models with brand histories and specs | [vehicles.pujiverse.com](https://vehicles.pujiverse.com/) | [GitHub Pages](https://pujiverse.github.io/Vehicle-Universe/) |
+| [**Pujiverse World Atlas**](https://github.com/pujiverse/pujiverse-world-atlas) | 3D globe population explorer with drill-down from world to city, 2015–2025 trends, density, and 1,400+ water bodies | [world.pujiverse.com](https://world.pujiverse.com/) | [GitHub Pages](https://pujiverse.github.io/pujiverse-world-atlas/) |
+| [**Pujiverse Films**](https://github.com/pujiverse/Pujiverse-Film-Database) | IMDb-style database of movies, short films, anime and TV across world film industries, organized by year · also at [movies.pujiverse.com](https://movies.pujiverse.com/) | [cinema.pujiverse.com](https://cinema.pujiverse.com/) | [GitHub Pages](https://pujiverse.github.io/Pujiverse-Film-Database/) |
 
 ## 🛠️ Web apps & tools
 
