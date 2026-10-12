@@ -77,6 +77,7 @@ I turn raw data into things people can explore — pipelines, dashboards, AI age
 | [**Vehicle Universe**](https://github.com/pujiverse/Vehicle-Universe) | Explorer for every kind of vehicle, from bicycles to rockets — 57 types, 3,400+ brands, 59,000+ models with brand histories and specs | [vehicles.pujiverse.com](https://vehicles.pujiverse.com/) | [GitHub Pages](https://pujiverse.github.io/Vehicle-Universe/) |
 | [**Pujiverse World Atlas**](https://github.com/pujiverse/pujiverse-world-atlas) | 3D globe population explorer with drill-down from world to city, 2015–2025 trends, density, and 1,400+ water bodies | [world.pujiverse.com](https://world.pujiverse.com/) | [GitHub Pages](https://pujiverse.github.io/pujiverse-world-atlas/) |
 | [**Pujiverse Films**](https://github.com/pujiverse/Pujiverse-Film-Database) | IMDb-style database of movies, short films, anime and TV across world film industries, organized by year · also at [movies.pujiverse.com](https://movies.pujiverse.com/) | [cinema.pujiverse.com](https://cinema.pujiverse.com/) | [GitHub Pages](https://pujiverse.github.io/Pujiverse-Film-Database/) |
+| [**Pujiverse Kitchen**](https://github.com/pujiverse/pujiverse-kitchen) | India's regional cuisines, state by state: 46 cuisines and 1,247 dishes with ingredients and step-by-step recipes | [kitchen.pujiverse.com](https://kitchen.pujiverse.com/) | [GitHub Pages](https://pujiverse.github.io/pujiverse-kitchen/) |
 
 ## 🛠️ Web apps & tools
 
