@@ -7,7 +7,7 @@
 I turn raw data into things people can explore — pipelines, dashboards, AI agents and interactive websites.
 
 [![pujiverse.com](https://img.shields.io/badge/pujiverse.com-Official%20Site-6f42c1?style=for-the-badge)](https://www.pujiverse.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pujith-sakhamuri-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-pujith.pujiverse.com-000000?style=for-the-badge)](https://pujith.pujiverse.com/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pujith-sakhamuri-06b69a137)
 
@@ -118,7 +118,7 @@ Prototypes built in Google AI Studio with TypeScript and the Gemini API.
 - [Business Manager Pro](https://github.com/pujiverse/biz-manager) — business, chit, expense and loan tracking with summary reports · [Live](https://biz-manager-eight.vercel.app/)
 - [Pujiverse Hub (earlier version)](https://github.com/pujiverse/pujiverse-hub) — first version of my personal hub · [Live](https://pujiverse.vercel.app/)
 - [Live-Sync Portfolio](https://github.com/pujiverse/New-Portfolio) — Google-Sheet-synced portfolio with a Gemini assistant · [Live](https://pujithsakhamuri.vercel.app/)
-- [Professional Portfolio](https://github.com/pujiverse/my-protfolio) — career portfolio · [Live](https://pujith-sakhamuri-portfolio.vercel.app/)
+- [Professional Portfolio](https://github.com/pujiverse/my-protfolio) — career portfolio · [Live](https://pujith.pujiverse.com/) · [Backup](https://pujiverse.github.io/my-protfolio/)
 
 ## 🎓 Academic
 
